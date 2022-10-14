@@ -49,6 +49,26 @@
 * [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) Star: 30.3k 
 
   cheatsheet，就是把每个知识点精简到几个字，一看就能记起什么意思，适合用来巩固python知识，或面试前的应急。
+
+* [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn) Star:25.1k 中文
+
+  Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。
+  
+* [xianhu/LearnPython](https://github.com/xianhu/LearnPython) Star:6.5k 中文
+
+  python入门介绍-爬虫-数据库-脚本
+  
+* [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python)
+
+  为python进阶者转杯的python练习题
+ 
+ * [coodict/python3-in-one-pic](https://github.com/coodict/python3-in-one-pic) Star:4.7k
+ 
+    用一张图解释了python
+  
+ * [lijin-THU/notes-python](https://github.com/lijin-THU/notes-python) Star:6.4k 中文
+ 
+    作者自学python做的中文笔记
   
 ## python示例项目
 * [geekcomputers/Python](https://github.com/geekcomputers/Python) Star: 26.5k
@@ -63,7 +83,26 @@
 
   作者把他在用python工作过程中的内容都记录了下来，如果你想知道一个python开发者需要做什么工作及如何完成工作的，请看它。
   
+* [michaelliao/awesome-python3-webapp](https://github.com/michaelliao/awesome-python3-webapp) Star:2.2
+
+  一个教你在16天内打造一个webapp的项目
+
+* [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark) Star: 6.3 中文
+
+  大佬JackCui的个人仓库，AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、Python基础、网络爬虫、大厂面经、程序人生、资源分享。
+
+* [taizilongxu/interview_python](https://github.com/taizilongxu/interview_python) Star:15.2k
+
+  python面试题，语言特性，网络协议，数据结构，算法实现，面试前必看！
   
+* [codebasics/py](https://github.com/codebasics/py) Star:5.5k
+
+  保存了很多python样例代码，比如数据分析、机器学习、深度学习等。
+  
+* [susanli2016/Machine-Learning-with-Python](https://github.com/susanli2016/Machine-Learning-with-Python) Star: 3.7k
+
+  用python实现了很多通用的机器学习算法
+   
 
 ## python书籍
 * [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) Star: 10.4k 中文
@@ -81,6 +120,19 @@
 * [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) Star:36.2k 英文
 
   《python数据科学手册》英文原版(中文版可关注我的公众号获取), 书中讲解了Ipython，numpy，pandas，matplotlib和机器学习内容。
+  
+* [aimacode/aima-python](https://github.com/aimacode/aima-python) Star:6.7k 英文
+
+  《Artificial Intelligence - A Modern Approach》一书中python算法的实现
+  
+* [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) Star:15.9k
+
+  《Deep Learning with Python》一书中的代码样例
+
+* [rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) Star:11.7k
+
+  这个项目中保存了很多机器学习书籍中的代码样例
+  
 
 ## python爬虫
 * [injetlee/Python](https://github.com/injetlee/Python) Star: 7.9k 中文
@@ -98,4 +150,12 @@
 * [lining0806/PythonSpiderNotes](https://github.com/lining0806/PythonSpiderNotes) Star: 6k 中文
 
   作者用最精简的语言来讲解爬虫的所有知识点，还有多线程爬虫，爬虫框架爬取，反爬虫等。
+  
+* [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) Star:15.3k
+
+  大佬JackCui的爬虫教程，生动有趣的讲解，详细周到的教程，必看！
+  
+* [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) Star:14.6k
+
+  众多国内网站的python登录实现。
   
