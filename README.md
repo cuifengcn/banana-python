@@ -41,6 +41,14 @@
 * [Tanu-N-Prabhu/Python](https://github.com/Tanu-N-Prabhu/Python) Star:6.5k 英文
 
   可以认为是python数据分析的入门教程。
+
+* [faif/python-patterns](https://github.com/faif/python-patterns) Star:35.2k 英文
+
+  你有没有想过，为什么别人的项目写得那么美观优雅，我的却杂乱不堪呢，其中很大部分原因是模式没有设计好，学习这个项目会对你有所启示的。
+  
+* [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) Star: 30.3k 
+
+  cheatsheet，就是把每个知识点精简到几个字，一看就能记起什么意思，适合用来巩固python知识，或面试前的应急。
   
 ## python示例项目
 * [geekcomputers/Python](https://github.com/geekcomputers/Python) Star: 26.5k
@@ -86,4 +94,8 @@
 * [wistbean/learn_python3_spider](https://github.com/wistbean/learn_python3_spider) Star:10.9k 中文
 
   说是学习python爬虫必看的项目不为过，抓包、爬网页、爬app、逆向、反爬虫，赶紧学起来。
+  
+* [lining0806/PythonSpiderNotes](https://github.com/lining0806/PythonSpiderNotes) Star: 6k 中文
+
+  作者用最精简的语言来讲解爬虫的所有知识点，还有多线程爬虫，爬虫框架爬取，反爬虫等。
   
