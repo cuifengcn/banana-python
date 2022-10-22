@@ -13,6 +13,10 @@
 * [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) Star: 126k 中文
 
   Python - 100天从新手到大师，如果你能把这个项目的内容都搞懂，你真的可以成为大师！他讲的真的是太详细了，除了python知识，还介绍了数据库优化，开发方案等。
+  
+* [Yixiaohan/codeparkshare](https://github.com/Yixiaohan/codeparkshare) Star:4.4k 中文
+
+  Python初学者（零基础学习Python、Python入门）书籍、视频、资料、社区推荐
 
 * [michaelliao/learn-python3](https://github.com/michaelliao/learn-python3/tree/master/samples) Star:5.7k 中文
 
